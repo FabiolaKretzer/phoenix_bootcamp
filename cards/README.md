@@ -5,13 +5,13 @@ A program that's going to simulate creating and dealing a hand of playing cards 
 The methods implemented are:
 
 <p align="center">
-  <img alt="functions_cards" title="#functions_cards" src="./images/functions_cards.png" width="400px">
+  <img alt="functions_cards" title="#functions_cards" src="./images/functions_cards.png" width="700px">
 </p>
 
 Example flow:
 
 <p align="center">
-  <img alt="flow" title="#flow" src="./images/flow.png" width="400px">
+  <img alt="flow" title="#flow" src="./images/flow.png" width="700px">
 </p>
 
 ## Installation

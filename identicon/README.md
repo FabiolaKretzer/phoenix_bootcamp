@@ -5,43 +5,43 @@ An Identicon is a visual representation of a hash value, usually of an IP addres
 The identicon will take a string as input and will generate an image:
 
 <p align="center">
-  <img alt="input_output" title="#input_output" src="./images/input_output.png" width="400px">
+  <img alt="input_output" title="#input_output" src="./images/input_output.png" width="700px">
 </p>
 
 Some examples:
 
 <p align="center">
-  <img alt="examples" title="#examples" src="./images/examples.png" width="400px">
+  <img alt="examples" title="#examples" src="./images/examples.png" width="700px">
 </p>
 
 Image is 250px by 250px, with 5X5 grid of squares, each 50px tall and wide:
 
 <p align="center">
-  <img alt="length_grid" title="#length_grid" src="./images/length_grid.png" width="400px">
+  <img alt="length_grid" title="#length_grid" src="./images/length_grid.png" width="700px">
 </p>
 
 Steps for generate an image:
 
 <p align="center">
-  <img alt="steps" title="#steps" src="./images/steps.png" width="400px">
+  <img alt="steps" title="#steps" src="./images/steps.png" width="700px">
 </p>
 
 Distribution of values of array at image pixels:
 
 <p align="center">
-  <img alt="distribuition_of_values" title="#distribuition_of_values" src="./images/distribuition_of_values.png" width="400px">
+  <img alt="distribuition_of_values" title="#distribuition_of_values" src="./images/distribuition_of_values.png" width="700px">
 </p>
 
 Calculate to paint pixels:
 
 <p align="center">
-  <img alt="pixel_calculations" title="#pixel_calculations" src="./images/pixel_calculations.png" width="400px">
+  <img alt="pixel_calculations" title="#pixel_calculations" src="./images/pixel_calculations.png" width="700px">
 </p>
 
 Generate the image:
 
 <p align="center">
-  <img alt="edg_create" title="#edg_create" src="./images/edg_create.png" width="400px">
+  <img alt="edg_create" title="#edg_create" src="./images/edg_create.png" width="700px">
 </p>
 
 ## Installation
